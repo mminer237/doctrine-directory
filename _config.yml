@@ -1,0 +1,35 @@
+title: Doctrine Directory
+url: https://doctrine.directory
+sourceUrl: https://github.com/mminer237/doctrine-directory
+author: Matthew Miner
+# tagManagerCode: GTM-TK37G57
+# googleAdClient: ca-pub-5576042369154755
+lightThemeColor: "#e33636"
+darkThemeColor: "#ce1c1c"
+msTileColor: "#da532c"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+permalink: /:name
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
