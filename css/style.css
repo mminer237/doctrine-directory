@@ -104,11 +104,15 @@ nav ul {
 }
 nav ul li {
 	flex: 1 0 auto;
+	list-style: none;
 	margin: 10px 13px;
 }
 nav ul li a {
 	display: inline-block;
 	padding: 5px 10px !important;
+}
+nav ul li a::before {
+	content:  "⬥ ";
 }
 nav ul a:not(:hover) {
 	text-decoration: none;
@@ -198,6 +202,20 @@ p:first-child {
 p:last-child {
 	margin-bottom: 0;
 }
+section > p:first-of-type:not(:last-of-type)::first-letter {
+	font-size: 3rem;
+	font-family: Lohengrin;
+	float: left;
+	line-height: 2rem;
+	padding-top: 4px;
+	margin-right: 4px;
+}
+blockquote {
+	background-color: #b5b54a50;
+	border-left: 4px #91913b solid;
+	margin: 10px;
+	padding: 5px;
+}
 details > :is(p, p:last-child) {
 	margin: 9px;
 }
@@ -209,9 +227,23 @@ img {
 	margin: auto;
 }
 li {
-	margin: 5px;
-	list-style: "⬥";
+	margin: 15px 0;
 	padding-left: 4px;
+}
+li:first-child {
+	margin-top: 0;
+}
+li:last-child {
+	margin-bottom: 0;
+}
+ul > li {
+	list-style: "⬥";
+}
+ol > li::marker {
+	font-family: "Vesper Libre", serif;
+	font-size: 200%;
+	font-weight: 700;
+	line-height: 1rem;
 }
 a {
 	color: var(--text-color);

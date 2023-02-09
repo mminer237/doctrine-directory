@@ -8,6 +8,9 @@ lightThemeColor: "#e33636"
 darkThemeColor: "#ce1c1c"
 msTileColor: "#da532c"
 
+googleFonts:
+  - Vesper+Libre:wght@700
+
 defaults:
   -
     scope:
