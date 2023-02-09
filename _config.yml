@@ -20,11 +20,20 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "doctrines"
+    values:
+      layout: "page"
 
 collections:
   pages:
     output: true
     permalink: /:name
+  doctrines:
+    output: true
+    permalink: /:path
 
 permalink: /:name
 
