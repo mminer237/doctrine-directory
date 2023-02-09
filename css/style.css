@@ -14,21 +14,21 @@
 /* Century Schoolbook L used under GPL. For a copy, see /assets/gpl.txt */
 @font-face {
 	font-family: 'Century Schoolbook L';
-	src: url('/assets/CenturySchL-Roma.ttf') format('woff2');
+	src: url('/assets/CenturySchL-Roma.woff2') format('woff2');
 }
 @font-face {
 	font-family: 'Century Schoolbook L';
-	src: url('/assets/CenturySchL-Roma.ttf') format('woff2');
+	src: url('/assets/CenturySchL-Bold.woff2') format('woff2');
 	font-weight: bold;
 }
 @font-face {
 	font-family: 'Century Schoolbook L';
-	src: url('/assets/CenturySchL-Ital.ttf') format('woff2');
+	src: url('/assets/CenturySchL-Ital.woff2') format('woff2');
 	font-style: italic;
 }
 @font-face {
 	font-family: 'Century Schoolbook L';
-	src: url('/assets/CenturySchL-BoldItal.ttf') format('woff2');
+	src: url('/assets/CenturySchL-BoldItal.woff2') format('woff2');
 	font-weight: bold;
 	font-style: italic;
 }
