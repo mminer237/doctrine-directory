@@ -224,10 +224,11 @@ a:hover {
 	width: 100%;
 }
 footer, footer a {
-	color: #f0f0f0;
+	color: black;
 }
 footer a:hover {
-	color: #fff;
+	color: #222;
+	filter: none;
 }
 footer img:hover {
 	filter: brightness(2.4);
@@ -247,5 +248,11 @@ footer div {
 	}
 	footer img:hover {
 		filter: brightness(1.2) drop-shadow(0.7px 0.7px #fff) drop-shadow(0.7px 0.7px 2px #fff4) !important;
+	}
+	footer, footer a {
+		color: #f0f0f0;
+	}
+	footer a:hover {
+		color: #fff;
 	}
 }
