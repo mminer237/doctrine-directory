@@ -11,3 +11,4 @@ Exactly what the consequences of Adam's original sin are is [a matter of dispute
 
 1. Calvinism subscribes to Federalism, believing that since Adam was head of the whole family, all humans are both totally depraved and guilty of Adam's original sin, and all are condemned to hell to pay for Adam's sin.
 2. Others in Western Christianity typically believe that original sin corrupted human nature to total depravity but not guilty of Adam's sin. In this view, men are only guilty for their own sins, but they are incapable of not choosing sin due to their fallen natures.
+3. The Eastern Orthodox Church was less influenced by Augustine. They agree that humanity bears many consequences of Adam's sin—chiefly death—but they do not believe that Adam's sin was imputed to all humanity nor that it intrinsically changed human nature. From an Eastern view, man is still intrinsically good but "wounded" with the sickness of sin and besieged by a fallen environment.
