@@ -10,27 +10,32 @@
 @font-face {
 	font-family: 'Lohengrin';
 	src: url('/assets/Lohengrin.ttf') format('truetype');
+	font-display: swap;
 }
 /* Century Schoolbook L used under GPL. For a copy, see /assets/gpl.txt */
 @font-face {
 	font-family: 'Century Schoolbook L';
 	src: url('/assets/CenturySchL-Roma.woff2') format('woff2');
+	font-display: swap;
 }
 @font-face {
 	font-family: 'Century Schoolbook L';
 	src: url('/assets/CenturySchL-Bold.woff2') format('woff2');
 	font-weight: bold;
+	font-display: swap;
 }
 @font-face {
 	font-family: 'Century Schoolbook L';
 	src: url('/assets/CenturySchL-Ital.woff2') format('woff2');
 	font-style: italic;
+	font-display: swap;
 }
 @font-face {
 	font-family: 'Century Schoolbook L';
 	src: url('/assets/CenturySchL-BoldItal.woff2') format('woff2');
 	font-weight: bold;
 	font-style: italic;
+	font-display: swap;
 }
 * {
 	box-sizing: border-box;
@@ -58,7 +63,7 @@ header a {
 	text-decoration: none;
 }
 h1 {
-	font-family: Lohengrin;
+	font-family: Lohengrin, Chomsky, "Lucida Blackletter", serif;
 	font-size: 44pt;
 	margin: 8px 0;
 }
