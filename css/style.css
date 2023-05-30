@@ -49,6 +49,9 @@
 [lang="en"] [lang]:not([lang="en"]) {
 	font-style: italic;
 }
+[lang="he"] {
+	font-family: 'Frank Ruhl Libre', 'Century Schoolbook L', 'Century', serif;
+}
 header {
 	padding: 20px;
 }

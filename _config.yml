@@ -9,7 +9,8 @@ darkThemeColor: "#ce1c1c"
 msTileColor: "#da532c"
 
 googleFonts:
-  - Vesper+Libre:wght@700
+  - Vesper+Libre:wght@700&text=1234567890
+  - Frank+Ruhl+Libre:wght@400;700&subset=hebrew
 
 defaults:
   -
