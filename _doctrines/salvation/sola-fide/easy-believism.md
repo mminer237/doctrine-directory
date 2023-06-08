@@ -4,7 +4,7 @@ description: Easy believism is the heresy that faith is all that is needed for s
 heresy: true
 ---
 
-"Easy believism" is an admittedly derogatory name for those who hold to an extreme view of [<span lang="la">sola fide</span>]({% link _doctrines/salvation/sola-fide.md %}) that denies that repentance is a part of salvation. Followers of this viewpoint believe that faith is all that is needed for salvation, yet they hold to a very cheap definition of faith. They know that "with the mouth confession is made unto salvation", as Romans 10:10 says, so they believe that if you pray a prayer saying that Christ is Lord, then you are saved, end of story. It doesn't matter if there is any evidence of transformation—you can go on sinning and still be saved. However they are missing the nature of true faith and inadvertently denying the power of the Holy Spirit.
+"Easy believism" is an admittedly derogatory name for those who hold to an extreme view of [<span lang="la">sola fide</span>]({% link _doctrines/salvation/sola-fide.md %}) that denies that repentance is a part of salvation. Followers of this viewpoint believe that faith is all that is needed for salvation, yet they hold to a very shallow definition of faith. Another, also derogatory, name for this false doctrine is "cheap grace" since they believe God does not require even repentance for His saving grace. They know that "with the mouth confession is made unto salvation", as Romans 10:10 says, so they believe that if you pray a prayer saying that Christ is Lord, then you are saved, end of story. It doesn't matter if there is any evidence of transformation—you can go on sinning and still be saved. However they are missing the nature of true faith and inadvertently denying the power of the Holy Spirit.
 
 The most plain rebuttal to this false doctrine is James 2, which seems to be written in direct contradiction to this line of thinking:
 
@@ -16,9 +16,11 @@ The most plain rebuttal to this false doctrine is James 2, which seems to be wri
 
 Salvation doesn't depend on good works, but true faith—the kind required for salvation—*will* lead to good works. This is the only outward clue as to someone's salvation.
 
-> Matthew 7:16a You will know them by their fruits.
+> Matthew 7:16a  You will know them by their fruits.
 
 Furthermore, while good works are a future action flowing out of salvation, repentance must be done before salvation. Acts 3:19 This is forsaking our own ways and returning to God's plan for our lives. Isaiah 55:7 How can those who are dead to sin continue to live therein? Romans 6:1–2
+
+> Matthew 16:24–25  Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me. For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
 
 Another problem with this line of thinking is that it denies the power of the Holy Spirit. Salvation is justification in God's eyes, but it's also a spiritual rebirth for us.
 
@@ -28,4 +30,4 @@ Another problem with this line of thinking is that it denies the power of the Ho
 
 > Romans 6:3–4  Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
-Philippians 1:6 says that we can be "confident … that he which hath begun a good work in [us] will perform it until the day of Jesus Christ." If someone claims to be a Christian yet has no good works following thereafter, there is good reason to doubt that that person is really saved. Not only does easy believism hurt Christianity by showing the world people who claim to be Christians yet continue to live ungodly lives. It also risks condemning people who trust in a prayer they prayed without any repentance instead of truly trusting in Christ. This is why Paul says, "Examine yourselves, whether ye be in the faith; prove your own selves." 2 Corinthians 13:5a
+Romans 8:28 says "all things work together for good to those who love God, to those who are the called according to His purpose." God will use all things in believers' lives to make them better and more like Christ. Philippians 1:6 says that we can be "confident … that he which hath begun a good work in [us] will perform it until the day of Jesus Christ." If someone claims to be a Christian yet has no good works following thereafter, there is good reason to doubt that that person is really saved. Not only does easy believism hurt Christianity by showing the world people who claim to be Christians yet continue to live ungodly lives. It also risks condemning people who trust in a prayer they prayed without any repentance instead of truly trusting in Christ. This is why Paul says, "Examine yourselves, whether ye be in the faith; prove your own selves." 2 Corinthians 13:5a
