@@ -7,8 +7,9 @@ layout: default
 	<p>This is a website listing and explaining Christian doctrines and the reasons behind them.</p>
 	<h2>Doctrine List</h2>
 	<ul>
-		{% for page in site.doctrines %}
+		{%- assign doctrines = site.doctrines | sort_natural: "title" %}
+		{%- for page in doctrines %}
 		<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-		{% endfor %}
+		{%- endfor %}
 	</ul>
 </section>
