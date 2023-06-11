@@ -1,5 +1,6 @@
 ---
 title: Baptismal Regeneration
+description: Baptismal regeneration is the belief that salvation is attained by water baptism.
 ---
 Baptismal regeneration is the belief that salvation does not occur until one is baptized. Not only does one have to repent and believe on Christ, but he must also be baptized in water in the likeness of Christ's death and resurrection.
 

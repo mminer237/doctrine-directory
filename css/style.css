@@ -4,6 +4,7 @@
 	--active-primary-color: #ce1c1c;
 	--background-color: white;
 	--main-background-color: #f0f0d0;
+	--embed-background-color: #e5e996;
 	--text-color: #222;
 	--hover-color: #505050;
 }
@@ -240,6 +241,17 @@ blockquote {
 	font-weight: bold;
 	margin-left: 4px;
 }
+.embedded-doctrine {
+	background-color: var(--embed-background-color);
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26);
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+}
+.embedded-doctrine > .title {
+	font-size: 19px;
+	font-weight: bold;
+}
 details > :is(p, p:last-child) {
 	margin: 9px;
 }
@@ -299,6 +311,7 @@ footer div {
 		--active-primary-color: #a21616;
 		--background-color: #111;
 		--main-background-color: #332;
+		--embed-background-color: #443;
 		--text-color: #f0f0f0;
 		--hover-color: #fff;
 	}

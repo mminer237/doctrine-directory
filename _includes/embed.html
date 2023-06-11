@@ -1,0 +1,8 @@
+{% assign doctrine = site.doctrines | where: "path", include.path | first -%}
+{:markdown="0"}{{--}}
+<div>{{--}}
+	<a href="{% link {{ include.path }} %}" class="embedded-doctrine">{{--}}
+		<div class="title">{{ doctrine.title }}</div>{{--}}
+		<p>{{ doctrine.description }}</p>{{--}}
+	</a>{{--}}
+</div>
