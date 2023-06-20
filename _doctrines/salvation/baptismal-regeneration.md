@@ -18,7 +18,7 @@ This belief drives from the various verses telling people to be baptized in conn
 
 ### Arguments for Baptismal Regeneration
 
-* [Bpatism: Necessary for Salvation](https://www.lavistachurchofchrist.org/cms/baptism-necessary-for-salvation/)
+* [Baptism: Necessary for Salvation](https://www.lavistachurchofchrist.org/cms/baptism-necessary-for-salvation/)
 
 ### Arguments against Baptismal Regeneration
 
