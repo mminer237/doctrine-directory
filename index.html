@@ -9,7 +9,9 @@ layout: default
 	<ul>
 		{%- assign doctrines = site.doctrines | sort_natural: "title" %}
 		{%- for page in doctrines %}
+		{%- unless page.stub %}
 		<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+		{%- endunless %}
 		{%- endfor %}
 	</ul>
 </section>

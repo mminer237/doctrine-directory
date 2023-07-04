@@ -258,6 +258,9 @@ details > :is(p, p:last-child) {
 details > p:first-of-type {
 	margin-top: 11px;
 }
+cite {
+	font-style: normal;
+}
 img {
 	max-width: max(750px, 100%);
 	margin: auto;
@@ -279,6 +282,10 @@ ol > li::marker {
 	font-family: "Vesper Libre", serif;
 	font-size: 200%;
 	font-weight: 700;
+	line-height: 1rem;
+}
+.big {
+	font-size: 200%;
 	line-height: 1rem;
 }
 a {
