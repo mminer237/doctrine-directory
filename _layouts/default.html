@@ -39,6 +39,11 @@
 		<title>{% if page.url == "/" %}{{ site.title | xml_escape }}{% else %}{{ page.title | xml_escape }} – {{ site.title | xml_escape }}{% endif %}</title>
 		<meta property="og:title" content="{% if page.url == '/' %}{{ site.title | xml_escape }}{% else %}{{ page.title | xml_escape }} – {{ site.title | xml_escape }}{% endif %}">
 		{% if page.description %}<meta name="description" property="og:description" content="{{ page.description }}">{% endif %}
+		{% if page.image %}
+		{% assign firstImageCharacter = page.image | slice: 0 %}
+		<meta property="og:image" content="{% if firstImageCharacter == 'a' %}{{ site.url }}/{% endif %}{{ page.image }}">
+		<meta property="og:image:type" content="image/jpeg">
+		{% endif %}
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="/css/style.css">
 		{% for font in site.googleFonts %}

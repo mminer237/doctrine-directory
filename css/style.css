@@ -262,8 +262,11 @@ cite {
 	font-style: normal;
 }
 img {
-	max-width: max(750px, 100%);
+	max-width: min(765px, 100%);
 	margin: auto;
+}
+h2 + img {
+	margin-top: 10px;
 }
 li {
 	margin: 15px 0;

@@ -1,6 +1,8 @@
 ---
 title: Eternal Security
 description: Eternal security is the doctrine that states that once a person is saved, nothing he nor anyone else does can take away that gift.
+image: assets/images/seal.jpg
+image_alt: A wax seal of a dove sealing a letter
 ---
 
 Eternal security is the doctrine of "once saved, always saved." It is the belief that once a person is saved, nothing he nor anyone else does can take away his salvation. This is in contrast to conditional preservation, which states that a person can lose his salvation by some subsequent sin.

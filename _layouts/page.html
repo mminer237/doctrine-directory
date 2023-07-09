@@ -5,6 +5,13 @@ scripts: /js/reftagger.js
 
 <section>
 	<h2>{{ page.title }}</h2>
+	{% if page.image %}
+{% responsive_image_block %}
+  path: {{ page.image }}
+  alt: {{ page.image_alt }}
+{% endresponsive_image_block %}
+	{% endif %}
+
 	{% if page.heresy %}{% include heresy-warning.html %}{% endif %}
 	{{ content }}
 </section>
