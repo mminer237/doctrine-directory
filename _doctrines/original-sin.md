@@ -1,6 +1,8 @@
 ---
 title: Original Sin
 description: Original sin is the sin committed by Adam in the Garden of Eden and its lasting effects for all of mankind.
+image: assets/images/strange-fruit.jpg
+image_alt: A strange purple-green fruit growing on a tree
 ---
 
 "Original sin" refers to the first sins ever committed by Adam and Eve in Genesis 3:6. More specifically, it refers to Adam's sin as head of the family. It is generally agreed throughout Christianity that Adam's sin had lasting consequences for all humanity.
