@@ -7,19 +7,23 @@ Monotheism is the belief that there is only one God. This is a core doctrine of 
 
 > Deuteronomy 6:4  Hear, O Israel: The LORD our God is one LORD:
 
-> Deuteronomy 4:35  Unto thee it was shewed, that thou mightest know that the Lord he is God; there is none else beside him.
-
 > Deuteronomy 4:39  Know therefore this day, and consider it in thine heart, that the Lord he is God in heaven above, and upon the earth beneath: there is none else.
-
-> Isaiah 43:10–11  Ye are my witnesses, saith the Lord, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me. I, even I, am the Lord; and beside me there is no savior.
-
-> Isaiah 44:6  Thus saith the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.
 
 > John 1:1–3  In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
 
 > Ephesians 4:4–5  There is one body, and one Spirit, even as ye are called in one hope of your calling; one Lord, one faith, one baptism.
 
 > 1 Timothy 2:5  For there is one God, and one mediator between God and men, the man Christ Jesus;
+
+Judaism stood in stark contrast to the religions of the Egyptians and the Canaanites because it held to the truth that there is only one god. The Bible says God led the Israelites out of bondage in Egypt so that they would know there is only one God:
+
+> Deuteronomy 4:34–35  Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the Lord your God did for you in Egypt before your eyes? Unto thee it was shewed, that thou mightest know that the Lord he is God; there is none else beside him.
+
+Not only is there only one God now, but there never has been nor will there ever be another god. God is eternal and has always existed, even before the universe and time itself were created:
+
+> Isaiah 43:10–11  Ye are my witnesses, saith the Lord, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me. I, even I, am the Lord; and beside me there is no savior.
+
+> Isaiah 44:6  Thus saith the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.
 
 That's not to say there are no other supernatural forces. The Bible talks of how some of the angels whom God created have rebelled against him and now [seek to lead men astray]({% link _doctrines/deceiving-spirits.md %}). They may pretend to be gods, but they are not.
 
