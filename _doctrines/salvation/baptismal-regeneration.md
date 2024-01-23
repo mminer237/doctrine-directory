@@ -14,7 +14,7 @@ This belief drives from the various verses telling people to be baptized in conn
 
 > Acts 22:16  And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.
 
-> [1 Peter 3:20a–21](https://www.biblegateway.com/passage/?search=1+Peter+3%3A20%E2%80%9321&version=KJV) … in the days of Noah, … few, that is, eight souls were saved by water. The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
+> [1 Peter 3:20b–21](https://www.biblegateway.com/passage/?search=1+Peter+3%3A20%E2%80%9321&version=KJV) … in the days of Noah, … few, that is, eight souls were saved by water. The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 
 ### Arguments for Baptismal Regeneration
 
