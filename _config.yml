@@ -44,9 +44,6 @@ permalink: /:name
 sass:
   style: compressed
 
-kramdown:
-  smart_quotes: ["apos", "apos", "ldquo", "rdquo"]
-
 plugins:
   - jekyll-responsive-image
   - jekyll-sitemap
