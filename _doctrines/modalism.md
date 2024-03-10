@@ -32,3 +32,9 @@ The very basis of our hope of salvation rests in Christ's sacrifice to the Fathe
 Again, it would be nonsensical for Jesus to offer Himself to Himself. Clearly there is a separate person of the Godhead to whom Christ offered Himself. If there was no one distinct to accept Christ's sacrifice, then it implies Christ's sacrifice was meaningless.
 
 Modalism is a serious heresy which denies the basic nature of God. It subverts the basis of our salvation and has led people astray for centuries. It is important to understand the truth of the Trinity and to reject this false teaching.
+
+Since modalism has been widely regarded as heresy since at least the 5th century, few Christians today openly subscribe to it. However, there are some sects which still believe it, most prominently the Oneness Pentecostals.
+
+More common is people simply describing the nigh-incomprehensible nature of the Trinity poorly. Often people use [bad analogies](https://youtu.be/KQLfgaUoQCw), such as water having three states, as reflecting God. While such analogies can be hopeful to new believers if properly caveated and explained, many analogies such as the water analogy technically describe modalism instead of the true nature of God. One should be careful not to make an already confusing concept further confused.
+
+Modalism may seem like a small difference from the truth, but this subtle difference has serious consequences. We most take care to describe the nature of God truthfully.
