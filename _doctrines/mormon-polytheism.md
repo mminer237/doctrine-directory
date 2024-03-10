@@ -1,6 +1,6 @@
 ---
 title: Mormon Polytheism
-description: 
+description: The Mormon Church teaches that God was once a sinful human who became a god and that all people can join the now pantheon of gods if they follow Mormonism's rules.
 heresy: true
 image: assets/images/mormon-jesuses.png
 image_alt: A multitude of copies of Jesus as the Mormons depict him
