@@ -16,6 +16,8 @@ This death is not only physical death as the consequence of sin, but also spirit
 1. {:markdown="0"}{% include embed.html path="_doctrines/salvation/sola-fide.md" %}
 2. {:markdown="0"}{% include embed.html path="_doctrines/salvation/baptismal-regeneration.md" %}
 
+Many people also believe that [salvation is a combination of faith and works]({% link _doctrines/salvation/salvation-by-works.md %}) and that one must be "good enough" to get into heaven. This is not really the doctrine of any denomination, and it is rarely espoused by people who have a formal theological stance. It is, however, a common belief among people who have not studied what God says about salvation.
+
 Despite these disagreements, there are further truths on the Scriptures about salvation which are agreed and can still be used to guide. It's clear that salvation is only possible through Christ's death. Hebrews 9:22 We must believe on His death and resurrection. Acts 16:31; Romans 10:9 Note that that this is believing *on* Christ, not just believing in Christ. Obviously you have to believe in Christ first, but even the devils believe that Christ is God and that he rose again. James 2:19 We must place our faith in Christ alone to save us.
 
 > Ephesians 2:8  For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:

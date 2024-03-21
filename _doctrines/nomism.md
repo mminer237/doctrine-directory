@@ -3,7 +3,7 @@ title: Nomism
 description: Nomism is the belief that Christianity is primarily about following a list of rules. A good Christian follows all the rules, and everyone else doesn't.
 ---
 
-Nomism ([/no.mɪ.zm̩/](http://ipa-reader.xyz/?text=no.m%C9%AA.zm%CC%A9&voice=Joey), from the Greek word for law) is the belief that Christianity is primarily about following a list of rules. A good Christian follows all the rules, and everyone else doesn't.
+Nomism ([/no.mɪ.zm̩/](http://ipa-reader.xyz/?text=no.m%C9%AA.zm%CC%A9&voice=Joey), from the Greek word for law) is the belief that Christianity is primarily about following a list of rules. A good Christian follows all the rules, and everyone else doesn't. Often this is also called "[legalism]({% link _doctrines/legalism.html %})".
 
 While part of following Christ is following God's commands and obeying even the earthly rules imposed upon us, that is not the only or even primary purpose of a Christian.
 
