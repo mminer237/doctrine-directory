@@ -2,7 +2,7 @@
 title: Sola Gratia
 description: Sola gratia is the doctrine that salvation is attained only through God's divine grace towards us.
 ---
-<span lang="la">Sola gratia</span> is Latin for "grace alone". It is the belief that our salvation is by God's grace alone. It is a similar idea to the doctrine of <span lang="la">sola fide</span>, in that it reinforces that we cannot earn favor with God through anything we do. However, it goes to a more fundamental level and states that while we are saved through faith, even our faith is not from ourselves, but only made possible by God's grace.
+<span lang="la">Sola gratia</span> is Latin for "grace alone". It is the belief that our salvation is by God's grace alone. It is a similar idea to the doctrine of <span lang="la">[sola fide]({% link _doctrines/salvation/sola-fide.md %})</span>, in that it reinforces that we cannot earn favor with God through anything we do. However, it goes to a more fundamental level and states that while we are saved through faith, even our faith is not from ourselves, but only made possible by God's grace.
 
 ### Grace
 
