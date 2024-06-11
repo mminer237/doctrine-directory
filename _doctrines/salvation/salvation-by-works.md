@@ -2,7 +2,7 @@
 title: Salvation by Works
 description: Salvation by Works is the doctrine that salvation is attained not only by faith but also requires doing good works.
 ---
-In contrast to the doctrine of [<span lang="la">Sola fide</span>](/doctrines/salvation/sola-fide), many people believe that salvation requires both faith and works. They believe that one must be "good enough" to get into heaven. This is many people's natural understanding of what it takes to get into heaven. It after all is the way that most things work in life. People only receive rewards if they have earned them, and man's natural instinct is to try to punish those that have wronged us. It is what almost every other religion says.
+In contrast to the doctrine of [<span lang="la">Sola fide</span>]({% link _doctrines/salvation/sola-fide.md %}), many people believe that salvation requires both faith and works. They believe that one must be "good enough" to get into heaven. This is many people's natural understanding of what it takes to get into heaven. It after all is the way that most things work in life. People only receive rewards if they have earned them, and man's natural instinct is to try to punish those that have wronged us. It is what almost every other religion says.
 
 However, the Bible teaches that salvation is a gift from God, and that His love is not like ours. Instead of God's love being conditional upon our actions, He loved us when we were unrepentant sinners. That is the whole reason we can come to God.
 
