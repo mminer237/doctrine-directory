@@ -1,6 +1,8 @@
 ---
 title: Sabbath
 description: The Sabbath is the seventh day of the week which God ordained to be a day of rest. For the Jews, the Mosaic Law also contained specific Sabbath restrictions.
+image: assets/images/saturday.jpg
+image_alt: A calendar focused on Saturday
 ---
 
 The Sabbath is the seventh day of the week which God ordained to be a day of rest. Its origins come from the very first week of the world's existence:
