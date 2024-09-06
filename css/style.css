@@ -217,12 +217,21 @@ p:last-child {
 	margin-bottom: 0;
 }
 section > p:first-of-type:not(:last-of-type)::first-letter {
-	font-size: 3rem;
 	font-family: Lohengrin;
-	float: left;
-	line-height: 2rem;
-	padding-top: 4px;
 	margin-right: 4px;
+}
+@supports (initial-letter: 2) {
+	section > p:first-of-type:not(:last-of-type)::first-letter {
+		initial-letter: 2;
+	}
+}
+@supports not (initial-letter: 2) {
+	section > p:first-of-type:not(:last-of-type)::first-letter {
+		font-size: 3rem;
+		float: left;
+		line-height: 2rem;
+		padding-top: 4px;
+	}
 }
 blockquote {
 	background-color: #b5b54a50;
